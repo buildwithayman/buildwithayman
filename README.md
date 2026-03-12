@@ -7,12 +7,15 @@
 ---
 
 ## 🌐 Socials
-[LinkedIn](https://linkedin.com)
+[LinkedIn](www.linkedin.com/in/mohdaymankhan)
 
 ---
 
 ## 🧠 Tech Stack
-Python | SQL | Power BI | Excel | Pandas | NumPy | Machine Learning
+Python | SQL | Power BI | Excel | Pandas | NumPy |
+
+## 💻 Tech Stack
+![My Skills](https://skillicons.dev/icons?i=python,mysql,pandas,numpy,tensorflow,git,github,powerbi)
 
 ---
 
