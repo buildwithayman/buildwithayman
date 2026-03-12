@@ -7,8 +7,7 @@
 ---
 
 ## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayman%20Khan-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/mohdaymankhan)
+[![DevSkills](https://img.shields.io/badge/DevSkills-Profile-black?style=for-the-badge&logo=dev.to)](www.linkedin.com/in/mohdaymankhan)
 
 ---
 
