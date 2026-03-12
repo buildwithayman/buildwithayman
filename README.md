@@ -15,7 +15,7 @@
 Python | SQL | Power BI | Excel | Pandas | NumPy |
 
 ## 💻 Tech Stack
-![My Skills](https://skillicons.dev/icons?i=python,mysql,pandas,numpy,tensorflow,git,github,powerbi)
+![My Skills](https://skillicons.dev/icons?i=python,powerbi,excel,mysql,pandas,numpy,matplotlib,seaborn,git,github)
 
 ---
 
