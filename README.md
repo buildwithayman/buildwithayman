@@ -7,7 +7,7 @@
 ---
 
 ## 🌐 Socials
-[![My Skills](https://skillicons.dev/icons?i=LinkedIn)](www.linkedin.com/in/mohdaymankhan)
+![My Skills](https://skillicons.dev/icons?i=LinkedIn)(www.linkedin.com/in/mohdaymankhan)
 
 ---
 
