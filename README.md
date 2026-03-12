@@ -7,7 +7,8 @@
 ---
 
 ## 🌐 Socials
-[LinkedIn](www.linkedin.com/in/mohdaymankhan)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayman%20Khan-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/mohdaymankhan)
 
 ---
 
