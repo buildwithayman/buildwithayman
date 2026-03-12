@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Ayman Khan
+# 👋 Hey there! I'm Ayman 
 
 🎓 Final Year Computer Science Student (Data Science)  
 📊 Aspiring Data Analyst  
@@ -14,7 +14,6 @@
 ## 🧠 Tech Stack
 Python | Power BI | Excel | Pandas | NumPy | Matplotlib | Seaborn | SQL | Machine Learning
 
----
 
-## 📊 GitHub Stats
-![Ayman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayman's&show_icons=true&theme=tokyonight)
+
+
