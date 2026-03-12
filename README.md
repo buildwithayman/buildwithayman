@@ -7,8 +7,8 @@
 ---
 
 ## 🌐 Socials
-[LinkedIn](www.linkedin.com/in/mohdaymankhan)
-
+[linkedIn](www.linkedin.com/in/mohdaymankhan)
+![My Skills](https://skillicons.dev/icons?i=LinkedIn)
 ---
 
 ## 🧠 Tech Stack
